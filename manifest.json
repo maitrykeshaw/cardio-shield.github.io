@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Cardio Shield™ - Official Website",
+  "short_name":"Cardio Shield™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Cardio Shield is one of the most potent formulas that help to maintain healthy levels of blood pressure naturally.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
