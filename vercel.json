@@ -26,6 +26,14 @@
           "value": "nosniff"
         },
         {
+          "key": "Access-control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "X-Robots-Tag",
+          "value": "all"
+        },
+        {
           "key": "Referrer-Policy",
           "value": "strict-origin-when-cross-origin"
         }
